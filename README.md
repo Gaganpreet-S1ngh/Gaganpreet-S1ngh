@@ -27,7 +27,7 @@
   - High-Performance Backend Development
 - 🏆 GATE CSE Qualified
 - 🧩 200+ DSA problems solved on LeetCode — top 15% in contests
-- 📫 Reach me at **singhgaganpreet739@gmail.com** or **+91-93510-12403**
+- 📫 Reach me at **singhgaganpreet739@gmail.com**
 
 ---
 
