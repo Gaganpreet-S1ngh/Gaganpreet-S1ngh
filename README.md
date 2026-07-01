@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gaganpreet Singh</h1>
+<h1 align="center">Hi , I'm Gaganpreet Singh</h1>
 <h3 align="center">AI Engineer • Backend Developer • Full Stack Builder</h3>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 - 🎓 Computer Science Undergraduate at **IIIT Vadodara** (B.Tech, CSE, 2022–2026)
 - 💡 Passionate about building production-grade software systems powered by AI and modern backend technologies
@@ -58,7 +58,7 @@
 
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
 <img src="https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
@@ -84,7 +84,7 @@
 
 ---
 
-### 🔥 Featured Projects
+### Featured Projects
 
 **⚖️ [AI Legal Research Assistant](https://github.com/Gaganpreet-S1ngh)**
 Production-grade RAG application that lets users upload legal documents and receive cited, AI-generated answers.
@@ -133,7 +133,7 @@ Peer-to-peer distributed storage system inspired by Chord DHT.
 
 ---
 
-<h3 align="center">🤝 Connect With Me</h3>
+<h3 align="center">Connect With Me</h3>
 <p align="center">
   <a href="https://linkedin.com/in/gaganpreet-singh-149296288">LinkedIn</a> ·
   <a href="mailto:singhgaganpreet739@gmail.com">Email</a> ·
